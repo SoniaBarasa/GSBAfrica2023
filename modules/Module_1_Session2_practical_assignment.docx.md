@@ -6,7 +6,7 @@
 
 __Contact session title: Session 2 command line__
 
-**Trainer: Sumir Panji and Amel Ghouila**
+**Trainer: Sonia Barasa and Luicer Olubayo**
 
 **Participant:** \<*write your name here\>*
 
